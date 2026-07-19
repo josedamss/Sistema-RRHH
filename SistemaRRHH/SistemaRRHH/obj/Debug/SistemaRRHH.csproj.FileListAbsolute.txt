@@ -106,3 +106,5 @@ C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRH
 C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaR.067476B3.Up2Date
 C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.exe
 C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.pdb
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.Formularios.FrmDashboard.resources
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.Formularios.FrmEmpleados.resources
