@@ -26,7 +26,8 @@ namespace SistemaRRHH.Formularios
                 new AntdUI.Column("Nombre", "Nombre Completo"),
                 new AntdUI.Column("Departamento", "Departamento"),
                 new AntdUI.Column("Cargo", "Cargo"),
-                new AntdUI.Column("Estado", "Estado", AntdUI.ColumnAlign.Center)
+                new AntdUI.Column("Estado", "Estado", AntdUI.ColumnAlign.Center),
+                new AntdUI.Column("Acciones", "Acciones", AntdUI.ColumnAlign.Center)
 
             };
 
@@ -42,6 +43,11 @@ namespace SistemaRRHH.Formularios
 
 
         }
-            
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmNuevoEmpleado frmNuevoEmpleado = new FrmNuevoEmpleado();
+            frmNuevoEmpleado.ShowDialog();
+        }
     }
 }

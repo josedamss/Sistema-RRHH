@@ -108,3 +108,5 @@ C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRH
 C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.pdb
 C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.Formularios.FrmDashboard.resources
 C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.Formularios.FrmEmpleados.resources
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.Formularios.FrmNuevoEmpleado.resources
+C:\Users\elpro\OneDrive\Desktop\REPOSITORIOS\Sistema-RRHH\SistemaRRHH\SistemaRRHH\obj\Debug\SistemaRRHH.Formularios.FrmUsuarios.resources

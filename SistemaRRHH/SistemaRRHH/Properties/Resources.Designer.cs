@@ -83,9 +83,40 @@ namespace SistemaRRHH.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap eye_visible_hide_hidden_show_icon_145988 {
+            get {
+                object obj = ResourceManager.GetObject("eye_visible_hide_hidden_show_icon_145988", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo_sin_fondo {
             get {
                 object obj = ResourceManager.GetObject("logo_sin_fondo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_sin_fondo1 {
+            get {
+                object obj = ResourceManager.GetObject("logo_sin_fondo1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_dotted_grid_paper_for_school_and_print_geometric_vector_png_image_11291854 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-dotted-grid-paper-for-school-and-print-geometric-vector-png-image_1129185" +
+                        "4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

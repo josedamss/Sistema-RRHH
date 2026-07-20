@@ -216,6 +216,18 @@
     <Compile Include="Formularios\FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\FrmNuevoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmNuevoEmpleado.Designer.cs">
+      <DependentUpon>FrmNuevoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmUsuarios.Designer.cs">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
+    </Compile>
     <Compile Include="Modelos\VariablesGlobal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -227,6 +239,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmNuevoEmpleado.resx">
+      <DependentUpon>FrmNuevoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmUsuarios.resx">
+      <DependentUpon>FrmUsuarios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -260,6 +278,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\0e345cf9-1dbf-4917-a032-f613f66eb875.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_sin_fondo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_visible_hide_hidden_show_icon_145988.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-dotted-grid-paper-for-school-and-print-geometric-vector-png-image_11291854.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

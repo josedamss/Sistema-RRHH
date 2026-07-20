@@ -39,7 +39,7 @@
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Inter", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Inter Black", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.label1.Location = new System.Drawing.Point(33, 22);
             this.label1.Name = "label1";
@@ -49,12 +49,12 @@
             // 
             // label2
             // 
-            this.label2.Font = new System.Drawing.Font("Inter", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(33, 88);
+            this.label2.Font = new System.Drawing.Font("Inter", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(33, 77);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(439, 23);
+            this.label2.Size = new System.Drawing.Size(628, 37);
             this.label2.TabIndex = 1;
-            this.label2.Text = "\"Administra la información, cargos y estado de tu personal\"";
+            this.label2.Text = "Administra la información, cargos y estado de tu personal";
             // 
             // txtbuscar
             // 
@@ -62,21 +62,24 @@
             this.txtbuscar.Name = "txtbuscar";
             this.txtbuscar.OriginalBackColor = System.Drawing.Color.White;
             this.txtbuscar.PlaceholderText = "Buscar por nombre o DNI...";
-            this.txtbuscar.Size = new System.Drawing.Size(550, 43);
+            this.txtbuscar.Size = new System.Drawing.Size(783, 43);
             this.txtbuscar.TabIndex = 2;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(613, 24);
+            this.button1.Location = new System.Drawing.Point(845, 24);
             this.button1.Name = "button1";
             this.button1.OriginalBackColor = System.Drawing.Color.White;
             this.button1.Size = new System.Drawing.Size(166, 43);
             this.button1.TabIndex = 3;
             this.button1.Text = "+ Nuevo Empleado";
             this.button1.Type = AntdUI.TTypeMini.Primary;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // tableempleados
             // 
+            this.tableempleados.AutoSizeColumnsMode = AntdUI.ColumnsMode.Fill;
+            this.tableempleados.Bordered = true;
             this.tableempleados.Gap = 12;
             this.tableempleados.Location = new System.Drawing.Point(24, 83);
             this.tableempleados.Name = "tableempleados";
@@ -92,7 +95,7 @@
             this.panel1.Controls.Add(this.txtbuscar);
             this.panel1.Location = new System.Drawing.Point(33, 131);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(812, 452);
+            this.panel1.Size = new System.Drawing.Size(1045, 452);
             this.panel1.TabIndex = 5;
             this.panel1.Text = "panel1";
             // 
@@ -101,14 +104,17 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(1067, 595);
+            this.BackgroundImage = global::SistemaRRHH.Properties.Resources.pngtree_dotted_grid_paper_for_school_and_print_geometric_vector_png_image_11291854;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.ClientSize = new System.Drawing.Size(1124, 595);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
+            this.DoubleBuffered = true;
             this.Font = new System.Drawing.Font("Inter", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FrmEmpleados";
-            this.Text = "FrmEmpleados";
+            this.Text = "Empleados";
             this.Load += new System.EventHandler(this.FrmEmpleados_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);

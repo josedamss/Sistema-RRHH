@@ -170,6 +170,27 @@ namespace SistemaRRHH
             }
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Verificamos si la contraseña está oculta actualmente
+            if (txtcontraseña.UseSystemPasswordChar == true)
+            {
+                // 1. Mostrar la contraseña
+                txtcontraseña.UseSystemPasswordChar = false;
+
+                // 2. Cambiar el icono al de "ocultar" (ojito cerrado)
+                btnojo.Text = "";
+            }
+            else
+            {
+                // 1. Volver a ocultar la contraseña con puntitos
+                txtcontraseña.UseSystemPasswordChar = true;
+
+                // 2. Cambiar el icono al de "ver" (ojito abierto)
+                btnojo.Text = "";
+            }
+        }
     }
 
 }

@@ -36,9 +36,10 @@
             this.label2 = new AntdUI.Label();
             this.label4 = new AntdUI.Label();
             this.panel1 = new AntdUI.In.Panel();
-            this.panel2 = new AntdUI.In.Panel();
-            this.lbusuario = new AntdUI.Label();
             this.lbcontraseña = new AntdUI.Label();
+            this.lbusuario = new AntdUI.Label();
+            this.panel2 = new AntdUI.In.Panel();
+            this.btnojo = new AntdUI.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,7 +51,7 @@
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.OriginalBackColor = System.Drawing.Color.White;
             this.txtusuario.PlaceholderText = "Escribe tu usuario";
-            this.txtusuario.Size = new System.Drawing.Size(284, 42);
+            this.txtusuario.Size = new System.Drawing.Size(284, 56);
             this.txtusuario.TabIndex = 0;
             this.txtusuario.TextChanged += new System.EventHandler(this.txtusuario_TextChanged);
             // 
@@ -61,7 +62,7 @@
             this.txtcontraseña.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.txtcontraseña.Name = "txtcontraseña";
             this.txtcontraseña.PlaceholderText = "Introduzca su contraseña";
-            this.txtcontraseña.Size = new System.Drawing.Size(284, 42);
+            this.txtcontraseña.Size = new System.Drawing.Size(284, 57);
             this.txtcontraseña.TabIndex = 1;
             this.txtcontraseña.UseSystemPasswordChar = true;
             this.txtcontraseña.TextChanged += new System.EventHandler(this.txtcontraseña_TextChanged);
@@ -77,7 +78,7 @@
             this.btningresar.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btningresar.Name = "btningresar";
             this.btningresar.OriginalBackColor = System.Drawing.SystemColors.Window;
-            this.btningresar.Size = new System.Drawing.Size(225, 39);
+            this.btningresar.Size = new System.Drawing.Size(284, 49);
             this.btningresar.TabIndex = 2;
             this.btningresar.Text = "Iniciar Sesion";
             this.btningresar.Type = AntdUI.TTypeMini.Primary;
@@ -85,9 +86,9 @@
             // 
             // label1
             // 
-            this.label1.Font = new System.Drawing.Font("Inter", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Inter Black", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.label1.Location = new System.Drawing.Point(27, 33);
+            this.label1.Location = new System.Drawing.Point(30, 22);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(149, 23);
             this.label1.TabIndex = 0;
@@ -96,13 +97,13 @@
             // 
             // label3
             // 
-            this.label3.Font = new System.Drawing.Font("Inter ExtraBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Inter Black", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.label3.Location = new System.Drawing.Point(52, 92);
+            this.label3.Location = new System.Drawing.Point(52, 97);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(216, 23);
             this.label3.TabIndex = 5;
-            this.label3.Text = "¡Bienvenido!";
+            this.label3.Text = "Welcome Back!";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
@@ -128,6 +129,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.btnojo);
             this.panel1.Controls.Add(this.lbcontraseña);
             this.panel1.Controls.Add(this.lbusuario);
             this.panel1.Controls.Add(this.label1);
@@ -137,31 +139,11 @@
             this.panel1.Controls.Add(this.txtcontraseña);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.btningresar);
-            this.panel1.Location = new System.Drawing.Point(412, 12);
+            this.panel1.Location = new System.Drawing.Point(422, 12);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(405, 495);
             this.panel1.TabIndex = 9;
             this.panel1.Text = "panel1";
-            // 
-            // panel2
-            // 
-            this.panel2.BackgroundImage = global::SistemaRRHH.Properties.Resources._1;
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(392, 521);
-            this.panel2.TabIndex = 10;
-            this.panel2.Text = "panel2";
-            // 
-            // lbusuario
-            // 
-            this.lbusuario.Font = new System.Drawing.Font("Inter SemiBold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbusuario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(205)))), ((int)(((byte)(8)))), ((int)(((byte)(8)))));
-            this.lbusuario.Location = new System.Drawing.Point(124, 147);
-            this.lbusuario.Name = "lbusuario";
-            this.lbusuario.Size = new System.Drawing.Size(212, 23);
-            this.lbusuario.TabIndex = 9;
-            this.lbusuario.Text = "";
-            this.lbusuario.Visible = false;
             // 
             // lbcontraseña
             // 
@@ -174,6 +156,38 @@
             this.lbcontraseña.Text = "";
             this.lbcontraseña.Visible = false;
             this.lbcontraseña.Click += new System.EventHandler(this.lbcontra_Click);
+            // 
+            // lbusuario
+            // 
+            this.lbusuario.Font = new System.Drawing.Font("Inter SemiBold", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbusuario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(205)))), ((int)(((byte)(8)))), ((int)(((byte)(8)))));
+            this.lbusuario.Location = new System.Drawing.Point(124, 147);
+            this.lbusuario.Name = "lbusuario";
+            this.lbusuario.Size = new System.Drawing.Size(212, 23);
+            this.lbusuario.TabIndex = 9;
+            this.lbusuario.Text = "";
+            this.lbusuario.Visible = false;
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(93)))), ((int)(((byte)(115)))), ((int)(((byte)(126)))));
+            this.panel2.BackgroundImage = global::SistemaRRHH.Properties.Resources.logo_sin_fondo;
+            this.panel2.Location = new System.Drawing.Point(0, 0);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(406, 521);
+            this.panel2.TabIndex = 10;
+            this.panel2.Text = "panel2";
+            // 
+            // btnojo
+            // 
+            this.btnojo.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnojo.Icon = global::SistemaRRHH.Properties.Resources.eye_visible_hide_hidden_show_icon_145988;
+            this.btnojo.IconRatio = 1.5F;
+            this.btnojo.Location = new System.Drawing.Point(277, 324);
+            this.btnojo.Name = "btnojo";
+            this.btnojo.Size = new System.Drawing.Size(36, 18);
+            this.btnojo.TabIndex = 11;
+            this.btnojo.Click += new System.EventHandler(this.button1_Click);
             // 
             // FrmLogin
             // 
@@ -206,6 +220,7 @@
         private AntdUI.In.Panel panel2;
         private AntdUI.Label lbusuario;
         private AntdUI.Label lbcontraseña;
+        private AntdUI.Button btnojo;
     }
 }
 
