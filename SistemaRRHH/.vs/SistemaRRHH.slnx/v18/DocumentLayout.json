@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\sistema-rrhh\\sistemarrhh\\sistemarrhh\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmnuevoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmnuevoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\sistema-rrhh\\sistemarrhh\\sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\sistema-rrhh\\sistemarrhh\\sistemarrhh\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|c:\\users\\elpro\\onedrive\\desktop\\repositorios\\sistema-rrhh\\sistemarrhh\\sistemarrhh\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmnuevoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmnuevoempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\modelos\\variablesglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\modelos\\variablesglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\sistemarrhh\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C6662F9-E5DE-4FEF-9C67-C7F1CAC79658}|SistemaRRHH\\SistemaRRHH.csproj|solutionrelative:sistemarrhh\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,126 +42,90 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "FrmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmInicio.cs",
+              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmInicio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T06:54:38.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmInicio.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T06:41:10.462Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FrmDashboard.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmDashboard.cs",
               "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmDashboard.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmDashboard.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmDashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmDashboard.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T04:41:01.589Z",
+              "WhenOpened": "2026-07-22T05:02:06.665Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "FrmEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs",
+              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmEmpleados.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs",
+              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmEmpleados.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAYwDYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:46:02.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs",
+              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmEmpleados.cs",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T06:06:04.971Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FrmDashboard.cs",
               "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmDashboard.cs",
               "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmDashboard.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmDashboard.cs*",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmDashboard.cs*",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAUwGcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmDashboard.cs",
+              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmDashboard.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA6wGYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T05:19:54.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmEmpleados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmEmpleados.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmEmpleados.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T05:31:44.867Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FrmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmLogin.cs",
               "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T01:38:10.514Z",
+              "WhenOpened": "2026-07-20T21:59:04.968Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmNuevoEmpleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs [Dise\u00F1o]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T02:55:58.011Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmEmpleados.cs",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmEmpleados.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmEmpleados.cs*",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmEmpleados.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T07:45:23.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FrmUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmUsuarios.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmUsuarios.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmUsuarios.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T04:15:00.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmLogin.cs",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmLogin.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAUwL4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T02:39:40.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmNuevoEmpleado.cs",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs*",
-              "RelativeToolTip": "SistemaRRHH\\Formularios\\FrmNuevoEmpleado.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T04:04:18.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VariablesGlobal.cs",
-              "DocumentMoniker": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Modelos\\VariablesGlobal.cs",
-              "RelativeDocumentMoniker": "SistemaRRHH\\Modelos\\VariablesGlobal.cs",
-              "ToolTip": "C:\\Users\\elpro\\OneDrive\\Desktop\\REPOSITORIOS\\Sistema-RRHH\\SistemaRRHH\\SistemaRRHH\\Modelos\\VariablesGlobal.cs",
-              "RelativeToolTip": "SistemaRRHH\\Modelos\\VariablesGlobal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T03:57:58.083Z"
             }
           ]
         }

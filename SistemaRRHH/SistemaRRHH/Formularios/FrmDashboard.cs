@@ -71,12 +71,14 @@ namespace SistemaRRHH.Formularios
                 // Si el que entró es el Admin General, ENTONCES le mostramos el botón secreto
                 btnusuario.Visible = true;
             }
+            else if (rol == "IT")
+            {
+                // El perfil de Tecnología tiene acceso a ABSOLUTAMENTE TODO
+                // Incluso, en el futuro, podrías ponerle un botón exclusivo de "Base de Datos" o "Respaldos"
+                btnusuario.Visible = true;
+            }
 
-            // 1. Mostrar el rol del usuario desde la variable global
-            lbrol.Text = "Has iniciado sesión como: " + VariablesGlobal.RolActual;
-
-            // 2. Encender el reloj para que empiece a avanzar
-            timer1.Start();
+            
         }
 
         
@@ -93,23 +95,28 @@ namespace SistemaRRHH.Formularios
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            // 3. Este código se ejecuta cada 1 segundo automáticamente
-            // Formato "hh:mm:ss tt" muestra la hora con AM/PM (Ej: 10:46:57 PM)
-            lbhora.Text = DateTime.Now.ToString("hh:mm:ss tt");
-
-            // ToLongDateString() escribe la fecha elegante (Ej: domingo, 19 de julio de 2026)
-            lbfecha.Text = DateTime.Now.ToLongDateString();
-
+            
         }
 
         private void btninicio_Click(object sender, EventArgs e)
         {
-           /*brirFormularioHijo(new FrmDashboard());*/
+            AbrirFormularioHijo(new FrmInicio());
+
         }
 
         private void panelcentral_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void btndepartamentos_Click(object sender, EventArgs e)
+        {
+            AbrirFormularioHijo(new FrmDepartamentos());
+        }
+
+        private void btnsalir_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

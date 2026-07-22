@@ -204,17 +204,35 @@
     <Compile Include="Formularios\FrmDashboard.Designer.cs">
       <DependentUpon>FrmDashboard.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\FrmDepartamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmDepartamentos.Designer.cs">
+      <DependentUpon>FrmDepartamentos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\FrmEmpleados.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\FrmEmpleados.Designer.cs">
       <DependentUpon>FrmEmpleados.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmNuevoDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmNuevoDepartamento.Designer.cs">
+      <DependentUpon>FrmNuevoDepartamento.cs</DependentUpon>
     </Compile>
     <Compile Include="Formularios\FrmNuevoEmpleado.cs">
       <SubType>Form</SubType>
@@ -228,17 +246,27 @@
     <Compile Include="Formularios\FrmUsuarios.Designer.cs">
       <DependentUpon>FrmUsuarios.cs</DependentUpon>
     </Compile>
+    <Compile Include="Modelos\EmpleadoFila.cs" />
     <Compile Include="Modelos\VariablesGlobal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Formularios\FrmDashboard.resx">
       <DependentUpon>FrmDashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmDepartamentos.resx">
+      <DependentUpon>FrmDepartamentos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FrmEmpleados.resx">
       <DependentUpon>FrmEmpleados.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmNuevoDepartamento.resx">
+      <DependentUpon>FrmNuevoDepartamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FrmNuevoEmpleado.resx">
       <DependentUpon>FrmNuevoEmpleado.cs</DependentUpon>
@@ -287,6 +315,87 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\pngtree-dotted-grid-paper-for-school-and-print-geometric-vector-png-image_11291854.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3643749-edit-pen-pencil-write-writing_113397.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3844460-can-trash_110351.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file_excel_icon_207242.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\candado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-icons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ico5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icno3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-icons1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChatGPT Image 21 jul 2026, 23_36_46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-icons %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-icons %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-icons %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-icons %284%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
